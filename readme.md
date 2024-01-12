@@ -1,8 +1,10 @@
+![Dev](./assets/img/DevTeste.jpg)
+
 ## Hello my name : Ben Gentil 👋
 
-## dev skills : 
+## dev skills : 🖥️
 
-- VSCode
+- VSCode 
 - HTML
 - CSS
-- JavaScript
+- JavaScript 
